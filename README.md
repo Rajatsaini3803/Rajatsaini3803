@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Saini</h1>
-<h3 align="center"> I am a software engineer with extensive experience in backend development, API design, and
-    micro-service architecture. This repository contains a collection of my projects, code samples, and expertise in
-    various programming languages, frameworks, and tools..</h3>
+<h3 align="center">Enthusiastic recent graduate with a solid foundation in data analysis, statistics, and programming. Seeking to leverage analytical and technical skills to contribute to a dynamic organisation as a Data Analyst/Data Scientist. Highly motivated to drive success and deliver impactful insights...</h3>
 
 <img align="right" alt="coding" width="400"
     src="https://www.careerguide.com/career/wp-content/uploads/2021/02/EU-code-week_GIF.gif">
